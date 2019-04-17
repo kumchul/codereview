@@ -1,6 +1,6 @@
 #include <iostream>
 #include "./shopping.h"
-
+//test
 int main(int argc, char* argv[]) {
   Goods goods1;
   Goods goods2;
