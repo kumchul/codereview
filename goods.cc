@@ -6,6 +6,8 @@ void Goods::SetGoodsInfo(int index, int price) {
   goods_price_ = price;
 }
 
+//test
+
 // Return index information
 int Goods::GetIndex() {
   return goods_index_;
